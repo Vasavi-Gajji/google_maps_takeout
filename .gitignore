@@ -1,0 +1,7 @@
+# Never commit real user exports or generated reports from this POC.
+*.zip
+*.tgz
+*.tar.gz
+imports/
+reports/
+.env

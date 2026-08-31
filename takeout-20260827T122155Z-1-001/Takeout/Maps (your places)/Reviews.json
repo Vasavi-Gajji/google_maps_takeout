@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -96.8064116,
+          33.0990002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-06T17:41:41.077235Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x75d4abf28f6e1296",
+        "location": {
+          "address": "2429 Preston Rd #100, Frisco, TX 75034, United States",
+          "country_code": "US",
+          "name": "A2B Indian Vegetarian Restaurant- AAB"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          },
+          {
+            "question": "Service",
+            "rating": 5
+          },
+          {
+            "question": "Atmosphere",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Best food ever, great service, recommended north indian food"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -96.9634312,
+          32.9150445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-05T19:56:47.574918Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5a5d773c63364db7",
+        "location": {
+          "address": "1102 W Lyndon B Johnson Fwy, Irving, TX 75063, United States",
+          "country_code": "US",
+          "name": "Hashtag Mandi House"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          },
+          {
+            "question": "Service",
+            "rating": 5
+          },
+          {
+            "question": "Atmosphere",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Good service ,appreciated and had a great food"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -94.6684280,
+          38.8592592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-03T20:56:48.609356Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xab17045b7dd13e8e",
+        "location": {
+          "address": "14856 Metcalf Ave, Overland Park, KS 66223, United States",
+          "country_code": "US",
+          "name": "Kushi Indian Restaurant"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          },
+          {
+            "question": "Service",
+            "rating": 5
+          },
+          {
+            "question": "Atmosphere",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Best experience ever, great indian food, i suggest everyone"
+      },
+      "type": "Feature"
+    }
+  ]
+}
